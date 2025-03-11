@@ -102,7 +102,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Author
-- Bumin Can Korkut
+- Bumin Kagan Cetin
 
 ## Acknowledgments
 Special thanks to all the organizations and researchers who made their data publicly available for this analysis. 
